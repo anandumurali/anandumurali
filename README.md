@@ -1,237 +1,249 @@
 <div align="center">
 
-  <!-- Custom Generated AI Header Banner -->
+  <!-- Neural Cyber Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:01032C,30:010D55,70:0855B1,100:00D2FF&height=220&section=header&text=ANANDU%20MURALI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%26%20NLP%20Architect%20%E2%80%A2%20Python%20Developer&descFontSize=17&descColor=00F5D4&descAlignY=65&descAlign=50" width="100%" alt="Anandu Murali Banner" />
+
+  <!-- Live Status Pill & Subtitle -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-🟢_OPEN_TO_AI%2FML_%26_PYTHON_ROLES-00F5A0?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=01032C" alt="Status Badge"/>
+    <img src="https://img.shields.io/badge/LOCATION-📍_KERALA%2C_INDIA-00D2FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=01032C" alt="Location Badge"/>
+    <img src="https://img.shields.io/badge/DEGREE-MCA_AI_%26_DATA_SCIENCE_(71%25)-7928CA?style=for-the-badge&logo=academia&logoColor=white&labelColor=01032C" alt="Education Badge"/>
+  </p>
+
+  <!-- Animated Typing Headline -->
   <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/header_banner.jpg" width="100%" alt="Anandu Murali - AI Engineer Banner" style="border-radius: 12px; margin-bottom: 12px;" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=🧠+Architecting+Emotion-Aware+AI+Voice+%26+Vision+Systems;👁️+Infosys-Certified+OpenCV+Image+Transformation;🐍+High-Performance+Python+Web+%26+Django+REST+APIs;🎓+MCA+in+Artificial+Intelligence+%26+Data+Science" alt="Typing Headline" />
   </a>
 
-  <!-- Animated Typing SVG with Crisp White Text -->
-  <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=%F0%9F%A7%A0+AI+%26+Deep+Learning+Architect;%F0%9F%94%AC+Emotion-Aware+Voice+%26+Vision+Systems;%F0%9F%90%8D+Python+Web+%26+Microservices+Specialist;%F0%9F%8E%93+MCA+Graduate+(AI%2C+ML+%26+Data+Science)" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Black & White Social Badges -->
+  <!-- Quick Portfolio & Contact Action Bar -->
   <p align="center">
     <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Official_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-anandumurali.mdsoftnova.com-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=010D55" alt="Portfolio"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/anandumurali-2002-" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=002244" alt="LinkedIn"/>
     </a>
     &nbsp;
     <a href="mailto:anandumurali.official@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A0000" alt="Email"/>
     </a>
     &nbsp;
     <a href="https://wa.me/918921942132" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp"/>
+      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp"/>
     </a>
   </p>
 
-  <!-- Black Status Pills with White Text -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Open_to_AI%2FML_Opportunities-000000?style=flat-square&labelColor=000000&color=000000" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Multimodal_AI_%26_Computer_Vision-000000?style=flat-square&labelColor=000000&color=000000" alt="Focus" />
-    <img src="https://img.shields.io/badge/Location-📍_Kottayam%2C_Kerala%2C_India-000000?style=flat-square&labelColor=000000&color=000000" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=anandumurali&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
 
-### 🧬 Executive Summary & About Me
+### ⚡ Technical Executive Profile
 
-```yaml
-Name: Anandu Murali
-Specialization: Artificial Intelligence, Machine Learning & Computer Vision
-Education: Master of Computer Applications (MCA) — AI & Data Science
-Experience: 1 Year Technical Staff @ Amrita Vishwa Vidyapeetham
-Passions: Emotion-Aware AI Voice Agents • Deep Neural Architectures • Real-time Computer Vision
-Core Philosophy: "Bridging mathematical deep learning models with scalable, production-ready software systems."
+```ini
+[ENGINEERING_IDENTITY]
+Name         = Anandu Murali
+Specialty    = Multimodal Emotion-Aware AI, Computer Vision, Deep Learning Pipelines, Python Architectures
+Experience   = 1 Year Technical Staff @ Amrita Vishwa Vidyapeetham (200+ Users Lab Infrastructure)
+Education    = Master of Computer Applications (MCA) — AI & Data Science Specialization
+Certificates = Infosys Springboard (OpenCV 3) • EC-Council (Ethical Hacking Essentials)
+Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Classification • 35% Response Time Reduction in Emergency Triage
 ```
 
-- 💡 **Emotion-Aware Intelligence:** Designing multimodal AI systems that recognize vocal acoustics, facial micro-expressions, and conversational context with **90%+ accuracy**.
-- 🛠️ **Systems & Infrastructure:** 1 year experience as Technical Staff at **Amrita Vishwa Vidyapeetham**, ensuring 99%+ uptime across lab compute clusters and development toolchains for 200+ users.
-- 🎓 **Academic Excellence:** Graduated **MCA (AI & Data Science)** with 71% and **BCA** with 72% from MG University.
-- 🚀 **Full-Stack ML Engineering:** Building robust end-to-end pipelines from dataset preprocessing & model training (TensorFlow, Scikit-learn, OpenCV) to Django/REST API microservice deployment.
-
 ---
 
-### 💻 Technical Ecosystem
-
-<div align="center">
-
-#### 🧠 AI, Deep Learning & Computer Vision
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-000000?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Speech_Recognition-000000?style=for-the-badge&logo=google&logoColor=white" alt="Speech Recognition" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-#### ⚡ Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### 🌐 Backend Frameworks & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-#### 🔧 Developer Tools & Environments
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Windows_Admin-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Admin" />
-</p>
-
-<br>
-
-<!-- Interactive Skill Icons in Dark Theme -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,django,java,mysql,git,github,linux,js,bootstrap,c,cpp,php,vscode,postman,powershell&theme=dark" alt="Interactive Skill Icons" />
-
-</div>
-
----
-
-### 🔥 Featured Engineering Projects
+### 🧠 Core Engineering Pillars & Specializations
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Metamind — Emotion-Aware Voice AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI_%26_NLP_System-000000?style=flat-square&logo=brain&logoColor=white" alt="AI Project" />
-      </p>
-      <p>Architected an empathetic conversational assistant that detects acoustic tone and facial cues in real-time with <strong>90%+ classification accuracy</strong>.</p>
+      <h4>🧠 1. Emotion-Aware AI & NLP Systems</h4>
+      <p>Architecting multimodal intelligence pipelines detecting acoustic voice tonality and facial micro-cues in real-time with <strong>90%+ classification accuracy</strong>.</p>
       <ul>
-        <li><strong>Tech:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>OpenCV</code>, <code>Scikit-learn</code>, <code>SpeechRecognition</code></li>
-        <li>Multimodal emotion recognition combining acoustic spectral analysis with Haar/Deep facial feature extraction.</li>
-        <li>Generates adaptive, empathetic, context-aware responses based on user sentiment.</li>
+        <li><strong>Acoustic Emotion Classification:</strong> Audio feature extraction via spectrogram & spectral analysis.</li>
+        <li><strong>Empathetic Conversational AI:</strong> Adaptive context-aware dialogue generation.</li>
+        <li><strong>Tooling:</strong> <code>TensorFlow</code>, <code>Scikit-learn</code>, <code>NLP</code>, <code>Speech Recognition</code>.</li>
       </ul>
-      <p align="center">
-        <a href="https://anandumurali.mdsoftnova.com/#projects">
-          <img src="https://img.shields.io/badge/View_Project_Details-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project" />
-        </a>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚑 Emergency Dispatch Portal</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack_Web_Platform-000000?style=flat-square&logo=bootstrap&logoColor=white" alt="Web Project" />
-      </p>
-      <p>Engineered a high-availability medical response portal connecting callers, ambulances, and hospital triage units, reducing response time by <strong>35%</strong>.</p>
+      <h4>👁️ 2. Computer Vision & Image Processing</h4>
+      <p>Certified in OpenCV image transformations, feature extraction, filtering matrices, and visual pattern recognition models.</p>
       <ul>
-        <li><strong>Tech:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>HTML5/CSS3</code></li>
-        <li>Automated dispatch algorithms based on proximity and emergency severity levels.</li>
-        <li>Normalized relational database for vehicle tracking, logs, and hospital capacity.</li>
+        <li><strong>Facial Micro-Expression Analysis:</strong> Real-time feature landmarking.</li>
+        <li><strong>Image Transformations:</strong> Spatial filtering, thresholding, edge detection.</li>
+        <li><strong>Tooling:</strong> <code>OpenCV 3</code>, <code>NumPy</code>, <code>Python</code>, <code>Convolutional Models</code>.</li>
       </ul>
-      <p align="center">
-        <a href="https://anandumurali.mdsoftnova.com/#projects">
-          <img src="https://img.shields.io/badge/View_Project_Details-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project" />
-        </a>
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐍 3. Scalable Python & Backend Engineering</h4>
+      <p>Designing modular microservices, RESTful API endpoints, and database architectures for high-concurrency systems.</p>
+      <ul>
+        <li><strong>Web Architectures:</strong> Django, MVC/MVT patterns, RESTful API design.</li>
+        <li><strong>Database Engineering:</strong> Normalized MySQL schemas, query optimization.</li>
+        <li><strong>Tooling:</strong> <code>Python</code>, <code>Django</code>, <code>Java</code>, <code>MySQL</code>, <code>REST APIs</code>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ 4. Systems Administration & Security</h4>
+      <p>Experienced in lab compute clusters, network uptime, and certified cybersecurity fundamentals.</p>
+      <ul>
+        <li><strong>Uptime & Infrastructure:</strong> Maintained 99%+ uptime for 200+ student & faculty seats at Amrita.</li>
+        <li><strong>Cybersecurity:</strong> EC-Council Certified in Ethical Hacking Essentials.</li>
+        <li><strong>Tooling:</strong> <code>Linux</code>, <code>Windows Server</code>, <code>Git/GitHub</code>, <code>Toolchain Config</code>.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📜 Verified Credentials & Certifications
+### 🛠️ Interactive Tech Stack Matrix
 
 <div align="center">
 
-| Credential | Issuer / Organization | Domain |
-| :--- | :--- | :--- |
-| 🏅 **OpenCV 3: Transforming & Filtering Images** | **Infosys Springboard** | Computer Vision, Image Processing |
-| 🛡️ **Ethical Hacking Essentials (EHE)** | **EC-Council** | Cybersecurity, Systems Defense |
-| 🎓 **Master of Computer Applications (MCA)** | **Yenepoya Institute** | AI, Machine Learning & Data Science (Score: 71%) |
-| 🎓 **Bachelor of Computer Applications (BCA)** | **MG University** | Computer Science & Systems (Score: 72%) |
-| 💼 **1 Year Technical Staff** | **Amrita Vishwa Vidyapeetham** | Lab Computing & Systems Admin |
+| Domain | Core Stack & Technologies |
+| :--- | :--- |
+| **Artificial Intelligence & ML** | `TensorFlow` `Scikit-learn` `OpenCV` `NLP` `Speech Recognition` `NumPy` `Pandas` `Audio/Image Processing` |
+| **Programming Languages** | `Python` `Java (Core)` `C` `C++` `SQL` `JavaScript` `PHP` `HTML5` `CSS3` |
+| **Backend & Web Frameworks** | `Django` `RESTful APIs` `PHP Web Development` `Bootstrap` |
+| **Databases & DevOps** | `MySQL` `Relational Database Design` `Git` `GitHub` `Linux` `VS Code` `Postman` |
+| **Core Competencies** | `OOP` `Data Structures & Algorithms` `System Administration` `SDLC / MLOps Lifecycle` |
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,django,java,mysql,git,github,linux,js,bootstrap,c,cpp,php,vscode,postman,powershell" alt="Tech Skills Grid" />
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🚀 Verified Flagship Case Studies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎙️ Metamind</h3>
+        <p><strong>Emotion-Aware AI Voice Assistant Companion</strong></p>
+        <img src="https://img.shields.io/badge/Accuracy-90%25%2B_Emotion_Classification-00F5A0?style=flat-square" alt="Accuracy Badge"/>
+        <img src="https://img.shields.io/badge/Domain-Multimodal_Voice_%2B_Vision_AI-00D2FF?style=flat-square" alt="Domain Badge"/>
+      </div>
+      <br>
+      <ul>
+        <li><strong>Architected Acoustic & Visual AI:</strong> Detected vocal pitch dynamics and facial landmarks simultaneously in real-time.</li>
+        <li><strong>Empathetic Response Engine:</strong> Built natural language pipeline generating contextually adapted vocal feedback.</li>
+        <li><strong>Vision Subsystem:</strong> Integrated <code>OpenCV</code> facial feature extraction and image filtering models.</li>
+        <li><strong>Stack:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Scikit-learn</code>, <code>OpenCV</code>, <code>SpeechRecognition</code>, <code>NLP</code>.</li>
+      </ul>
+      <div align="center">
+        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_Metamind_Case_Study-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🚑 Ambulance Helpline</h3>
+        <p><strong>Emergency Medical Dispatch & Triage Portal</strong></p>
+        <img src="https://img.shields.io/badge/Efficiency-35%25_Response_Time_Cut-00F5A0?style=flat-square" alt="Efficiency Badge"/>
+        <img src="https://img.shields.io/badge/Domain-Full--Stack_Emergency_Platform-FF007F?style=flat-square" alt="Platform Badge"/>
+      </div>
+      <br>
+      <ul>
+        <li><strong>Rapid Triage Dispatch:</strong> Centralized real-time coordination connecting callers, paramedic drivers, and emergency rooms.</li>
+        <li><strong>Response Optimization:</strong> Algorithmic triage allocation cutting emergency dispatch latency by <strong>35%</strong>.</li>
+        <li><strong>Relational DB Architecture:</strong> Normalized MySQL schema for fleet tracking, driver rosters, and emergency logs.</li>
+        <li><strong>Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>HTML5/CSS3</code>.</li>
+      </ul>
+      <div align="center">
+        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_Portal_Case_Study-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Academic Track Record & Professional Experience
+
+```
+2023 ───► 2025 │ Master of Computer Applications (MCA) — AI, ML & Data Science
+               │ Yenepoya Institute of Arts, Science, Commerce & Management • Score: 71%
+               │ Focus: Neural Networks, Deep Learning, Statistical Machine Learning, NLP
+
+2020 ───► 2023 │ Bachelor of Computer Applications (BCA)
+               │ Ettumanoorappan College, MG University • Score: 72%
+               │ Focus: Software Engineering, Data Structures, OOP (Java/C++), Relational DBs
+
+2023 ───► 2024 │ Technical Staff (1 Year) @ Amrita Vishwa Vidyapeetham
+               │ Maintained 99%+ lab infrastructure uptime for 200+ students & research faculty
+               │ Managed Linux/Windows compute nodes, toolchain setup (Python/C/Java), automated backups
+
+CERTIFICATIONS │ 🏅 Infosys Springboard: OpenCV 3 (Transforming & Filtering Images)
+               │ 🛡️ EC-Council: Ethical Hacking Essentials (EHE)
+```
+
+---
+
+### 📊 Live GitHub Engineering Metrics
 
 <div align="center">
-
-  <!-- Pure Black & White GitHub Readme Stats Cards -->
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/anandumurali">
-          <img src="https://github-readme-stats.vercel.app/api?username=anandumurali&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false&border_radius=10" alt="Anandu's GitHub Stats" width="415" />
+          <img src="https://github-readme-stats.vercel.app/api?username=anandumurali&show_icons=true&theme=radical&hide_border=false&border_color=00D2FF&border_radius=10&title_color=00D2FF&icon_color=00F5A0&text_color=FFFFFF&bg_color=01032C" alt="GitHub Stats" width="415" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anandumurali">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandumurali&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false&border_radius=10" alt="Top Languages" width="375" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandumurali&layout=compact&theme=radical&hide_border=false&border_color=00D2FF&border_radius=10&title_color=00D2FF&text_color=FFFFFF&bg_color=01032C" alt="Top Languages" width="375" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/anandumurali">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandumurali&background=000000&border=333333&hide_border=false&border_radius=10&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="800" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandumurali&theme=radical&hide_border=false&border_color=00D2FF&border_radius=10&ring=00D2FF&fire=00F5A0&currStreakNum=00F5D4&sideNums=FFFFFF&sideLabels=A0AEC0&dates=A0AEC0&background=01032C" alt="Streak Stats" width="800" />
         </a>
       </td>
     </tr>
   </table>
-
 </div>
 
 ---
 
-### 💬 Let's Connect & Collaborate!
+### 📬 Direct Communication & Opportunities
 
 <div align="center">
 
-<p align="center">
-  I am actively looking for opportunities in <strong>AI/Machine Learning Engineering</strong>, <strong>Computer Vision Research</strong>, and <strong>Python Backend Architecture</strong>.
+<p>
+  <strong>Open for AI/ML Engineering, Computer Vision Research, and Python Backend Development roles.</strong>
 </p>
 
 <a href="https://anandumurali.mdsoftnova.com">
-  <img src="https://img.shields.io/badge/Explore_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio_Website-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=01032C" alt="Website"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/anandumurali-2002-">
-  <img src="https://img.shields.io/badge/LinkedIn_Network-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01032C" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:anandumurali.official@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+  <img src="https://img.shields.io/badge/Email_anandumurali.official-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=01032C" alt="Email"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://wa.me/918921942132">
-  <img src="https://img.shields.io/badge/WhatsApp_Chat-000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp_+918921942132-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=01032C" alt="WhatsApp"/>
 </a>
 
 <br><br>
 
-<!-- Pure Black Footer Wave Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- Closing Cyber Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00D2FF,50:0855B1,100:01032C&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
