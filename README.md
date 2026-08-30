@@ -1,24 +1,29 @@
 <div align="center">
 
-  <!-- Neural Cyber Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:01032C,30:010D55,70:0855B1,100:00D2FF&height=220&section=header&text=ANANDU%20MURALI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%26%20NLP%20Architect%20%E2%80%A2%20Python%20Developer&descFontSize=17&descColor=00F5D4&descAlignY=65&descAlign=50" width="100%" alt="Anandu Murali Banner" />
+  <!-- Flagship AI Engineer Header Banner -->
+  <a href="https://anandumurali.mdsoftnova.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/header_banner.jpg" width="100%" alt="Anandu Murali AI Engineer Banner" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 210, 255, 0.2);" />
+  </a>
 
-  <!-- Live Status Pill & Subtitle -->
+  <br><br>
+
+  <!-- Animated Multi-line Typing SVG -->
+  <a href="https://anandumurali.mdsoftnova.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=800&height=55&lines=%F0%9F%A7%A0+AI+%26+Deep+Learning+Architect;%F0%9F%8E%99%EF%B8%8F+Emotion-Aware+Voice+%26+Acoustic+Intelligence;%F0%9F%91%81%EF%B8%8F+Infosys-Certified+OpenCV+Image+Transformation;%F0%9F%90%8D+High-Performance+Python+%26+Django+REST+APIs;%F0%9F%8E%93+MCA+in+Artificial+Intelligence+%26+Data+Science" alt="Typing Headline" />
+  </a>
+
+  <!-- Live Status & Credentials Pills -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-🟢_OPEN_TO_AI%2FML_%26_PYTHON_ROLES-00F5A0?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=01032C" alt="Status Badge"/>
     <img src="https://img.shields.io/badge/LOCATION-📍_KERALA%2C_INDIA-00D2FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=01032C" alt="Location Badge"/>
     <img src="https://img.shields.io/badge/DEGREE-MCA_AI_%26_DATA_SCIENCE_(71%25)-7928CA?style=for-the-badge&logo=academia&logoColor=white&labelColor=01032C" alt="Education Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=anandumurali&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge&labelColor=01032C" alt="Profile Views" />
   </p>
 
-  <!-- Animated Typing Headline -->
-  <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=🧠+Architecting+Emotion-Aware+AI+Voice+%26+Vision+Systems;👁️+Infosys-Certified+OpenCV+Image+Transformation;🐍+High-Performance+Python+Web+%26+Django+REST+APIs;🎓+MCA+in+Artificial+Intelligence+%26+Data+Science" alt="Typing Headline" />
-  </a>
-
-  <!-- Quick Portfolio & Contact Action Bar -->
+  <!-- Interactive Social & Portfolio Action Bar -->
   <p align="center">
     <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-anandumurali.mdsoftnova.com-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=010D55" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/🌐_Official_Portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=010D55" alt="Portfolio"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/anandumurali-2002-" target="_blank">
@@ -38,21 +43,21 @@
 
 ---
 
-### ⚡ Technical Executive Profile
+### ⚡ Executive Profile & Architecture
 
 ```ini
 [ENGINEERING_IDENTITY]
 Name         = Anandu Murali
 Specialty    = Multimodal Emotion-Aware AI, Computer Vision, Deep Learning Pipelines, Python Architectures
-Experience   = 1 Year Technical Staff @ Amrita Vishwa Vidyapeetham (200+ Users Lab Infrastructure)
+Experience   = 1 Year Technical Staff @ Amrita Vishwa Vidyapeetham (200+ Seats Lab Infrastructure)
 Education    = Master of Computer Applications (MCA) — AI & Data Science Specialization
 Certificates = Infosys Springboard (OpenCV 3) • EC-Council (Ethical Hacking Essentials)
-Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Classification • 35% Response Time Reduction in Emergency Triage
+Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Recognition • 35% Latency Cut in Emergency Medical Triage
 ```
 
 ---
 
-### 🧠 Core Engineering Pillars & Specializations
+### 🧠 Core Engineering Pillars
 
 <table>
   <tr>
@@ -99,6 +104,74 @@ Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Classification • 35% Respon
 
 ---
 
+### 🚀 Verified Flagship Case Studies
+
+<!-- Project 1: Metamind AI -->
+<div align="center">
+  <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/metamind_banner.jpg" width="100%" alt="Metamind Emotion AI Banner" style="border-radius: 10px; margin-bottom: 10px;" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <h3>🎙️ Metamind — Emotion-Aware AI Voice Assistant Companion</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Accuracy-90%25%2B_Emotion_Classification-00F5A0?style=flat-square" alt="Accuracy Badge"/>
+        <img src="https://img.shields.io/badge/Domain-Multimodal_Voice_%2B_Vision_AI-00D2FF?style=flat-square" alt="Domain Badge"/>
+        <img src="https://img.shields.io/badge/Framework-TensorFlow_%7C_OpenCV-FF6F00?style=flat-square" alt="Framework Badge"/>
+      </p>
+      <ul>
+        <li><strong>Architected Acoustic & Visual AI:</strong> Detected vocal pitch dynamics and facial landmarks simultaneously in real-time.</li>
+        <li><strong>Empathetic Response Engine:</strong> Built natural language pipeline generating contextually adapted vocal feedback.</li>
+        <li><strong>Vision Subsystem:</strong> Integrated <code>OpenCV</code> facial feature extraction and image filtering models.</li>
+        <li><strong>Stack:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Scikit-learn</code>, <code>OpenCV</code>, <code>SpeechRecognition</code>, <code>NLP</code>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_Metamind_Interactive_Demo-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Project 2: Emergency Dispatch Portal -->
+<div align="center">
+  <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/dispatch_banner.jpg" width="100%" alt="Emergency Dispatch Portal Banner" style="border-radius: 10px; margin-bottom: 10px;" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <h3>🚑 Ambulance Helpline & Emergency Medical Dispatch Portal</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Efficiency-35%25_Response_Time_Cut-00F5A0?style=flat-square" alt="Efficiency Badge"/>
+        <img src="https://img.shields.io/badge/Domain-Full--Stack_Emergency_Platform-FF007F?style=flat-square" alt="Platform Badge"/>
+        <img src="https://img.shields.io/badge/Database-Normalized_MySQL_Cluster-4479A1?style=flat-square" alt="DB Badge"/>
+      </p>
+      <ul>
+        <li><strong>Rapid Triage Dispatch:</strong> Centralized real-time coordination connecting callers, paramedic drivers, and emergency rooms.</li>
+        <li><strong>Response Optimization:</strong> Algorithmic triage allocation cutting emergency dispatch latency by <strong>35%</strong>.</li>
+        <li><strong>Relational DB Architecture:</strong> Normalized MySQL schema for fleet tracking, driver rosters, and emergency logs.</li>
+        <li><strong>Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>HTML5/CSS3</code>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
+          <img src="https://img.shields.io/badge/Explore_Emergency_Portal_Architecture-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Interactive Tech Stack Matrix
 
 <div align="center">
@@ -116,55 +189,6 @@ Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Classification • 35% Respon
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,django,java,mysql,git,github,linux,js,bootstrap,c,cpp,php,vscode,postman,powershell" alt="Tech Skills Grid" />
 
 </div>
-
----
-
-### 🚀 Verified Flagship Case Studies
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎙️ Metamind</h3>
-        <p><strong>Emotion-Aware AI Voice Assistant Companion</strong></p>
-        <img src="https://img.shields.io/badge/Accuracy-90%25%2B_Emotion_Classification-00F5A0?style=flat-square" alt="Accuracy Badge"/>
-        <img src="https://img.shields.io/badge/Domain-Multimodal_Voice_%2B_Vision_AI-00D2FF?style=flat-square" alt="Domain Badge"/>
-      </div>
-      <br>
-      <ul>
-        <li><strong>Architected Acoustic & Visual AI:</strong> Detected vocal pitch dynamics and facial landmarks simultaneously in real-time.</li>
-        <li><strong>Empathetic Response Engine:</strong> Built natural language pipeline generating contextually adapted vocal feedback.</li>
-        <li><strong>Vision Subsystem:</strong> Integrated <code>OpenCV</code> facial feature extraction and image filtering models.</li>
-        <li><strong>Stack:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Scikit-learn</code>, <code>OpenCV</code>, <code>SpeechRecognition</code>, <code>NLP</code>.</li>
-      </ul>
-      <div align="center">
-        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
-          <img src="https://img.shields.io/badge/Explore_Metamind_Case_Study-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🚑 Ambulance Helpline</h3>
-        <p><strong>Emergency Medical Dispatch & Triage Portal</strong></p>
-        <img src="https://img.shields.io/badge/Efficiency-35%25_Response_Time_Cut-00F5A0?style=flat-square" alt="Efficiency Badge"/>
-        <img src="https://img.shields.io/badge/Domain-Full--Stack_Emergency_Platform-FF007F?style=flat-square" alt="Platform Badge"/>
-      </div>
-      <br>
-      <ul>
-        <li><strong>Rapid Triage Dispatch:</strong> Centralized real-time coordination connecting callers, paramedic drivers, and emergency rooms.</li>
-        <li><strong>Response Optimization:</strong> Algorithmic triage allocation cutting emergency dispatch latency by <strong>35%</strong>.</li>
-        <li><strong>Relational DB Architecture:</strong> Normalized MySQL schema for fleet tracking, driver rosters, and emergency logs.</li>
-        <li><strong>Stack:</strong> <code>PHP</code>, <code>MySQL</code>, <code>JavaScript</code>, <code>Bootstrap</code>, <code>HTML5/CSS3</code>.</li>
-      </ul>
-      <div align="center">
-        <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
-          <img src="https://img.shields.io/badge/Explore_Portal_Case_Study-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Project"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
