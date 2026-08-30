@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Pure Black & White Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=ANANDU%20MURALI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Python%20Architect&descFontSize=18&descColor=ffffff&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Custom Generated AI Header Banner -->
+  <a href="https://anandumurali.mdsoftnova.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/header_banner.jpg" width="100%" alt="Anandu Murali - AI Engineer Banner" style="border-radius: 12px; margin-bottom: 12px;" />
+  </a>
 
-  <!-- Animated Typing SVG with Pure White Text -->
+  <!-- Animated Typing SVG with Crisp White Text -->
   <a href="https://anandumurali.mdsoftnova.com" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=%F0%9F%A7%A0+AI+%26+Deep+Learning+Architect;%F0%9F%94%AC+Emotion-Aware+Voice+%26+Vision+Systems;%F0%9F%90%8D+Python+Web+%26+Microservices+Specialist;%F0%9F%8E%93+MCA+Graduate+(AI%2C+ML+%26+Data+Science)" alt="Typing SVG" />
   </a>
