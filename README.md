@@ -155,7 +155,7 @@
 <!-- Project 2: Emergency Dispatch Portal -->
 <div align="center">
   <a href="https://anandumurali.mdsoftnova.com/#projects" target="_blank">
-    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/dispatch_banner.jpg" width="100%" alt="Emergency Dispatch Portal Banner" style="border-radius: 10px; margin-bottom: 10px;" />
+    <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/ambulance_dispatch_banner.jpg" width="100%" alt="Emergency Dispatch Portal Banner" style="border-radius: 10px; margin-bottom: 10px;" />
   </a>
 </div>
 
