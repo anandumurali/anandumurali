@@ -43,28 +43,27 @@
 
 ---
 
-### ⚡ Executive Profile & Architecture
+### ⚡ Executive Profile & Specializations
 
 <table>
   <tr>
-    <td width="28%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <a href="https://anandumurali.mdsoftnova.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/anandu_avatar.png" width="180" height="235" alt="Anandu Murali" style="border-radius: 16px; border: 3px solid #00D2FF; object-fit: cover; box-shadow: 0 4px 20px rgba(0, 210, 255, 0.3);" />
+        <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/cartoon_avatar.png" width="200" height="200" alt="Anandu Murali Avatar Clone" style="border-radius: 50%; border: 3px solid #00D2FF; object-fit: cover; box-shadow: 0 0 25px rgba(0, 210, 255, 0.4);" />
       </a>
-      <br>
-      <strong>Anandu Murali</strong><br>
-      <em>AI / ML Engineer</em>
+      <br><br>
+      <strong>ANANDU MURALI</strong><br>
+      <small><em>AI & Deep Learning Architect</em></small>
     </td>
-    <td width="72%" valign="top">
-```ini
-[ENGINEERING_IDENTITY]
-Name         = Anandu Murali
-Specialty    = Multimodal Emotion-Aware AI, Computer Vision, Deep Learning Pipelines, Python Architectures
-Experience   = 1 Year Technical Staff @ Amrita Vishwa Vidyapeetham (200+ Seats Lab Infrastructure)
-Education    = Master of Computer Applications (MCA) — AI & Data Science Specialization
-Certificates = Infosys Springboard (OpenCV 3) • EC-Council (Ethical Hacking Essentials)
-Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Recognition • 35% Latency Cut in Emergency Medical Triage
-```
+    <td width="70%" valign="top">
+      <h4>🎯 Core Focus & Competencies</h4>
+      <p>Specializing in <strong>emotion-aware AI systems</strong>, <strong>computer vision algorithms</strong>, and <strong>high-performance Python web architectures</strong>.</p>
+      <ul>
+        <li>💼 <strong>Industry Experience:</strong> 1 Year Technical Staff at <em>Amrita Vishwa Vidyapeetham</em> (managed 200+ user lab cluster).</li>
+        <li>🎓 <strong>Education:</strong> Master of Computer Applications (<strong>MCA in AI & Data Science</strong> - 71%) • BCA (72%).</li>
+        <li>🏅 <strong>Certifications:</strong> <em>Infosys Springboard</em> (OpenCV 3) • <em>EC-Council</em> (Ethical Hacking Essentials).</li>
+        <li>📈 <strong>Impact Metrics:</strong> <strong>90%+ accuracy</strong> on multimodal emotion classification • <strong>35% latency reduction</strong> on emergency triage response.</li>
+      </ul>
     </td>
   </tr>
 </table>
