@@ -45,6 +45,17 @@
 
 ### ⚡ Executive Profile & Architecture
 
+<table>
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://anandumurali.mdsoftnova.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/anandumurali/anandumurali/main/assets/anandu_avatar.png" width="180" height="235" alt="Anandu Murali" style="border-radius: 16px; border: 3px solid #00D2FF; object-fit: cover; box-shadow: 0 4px 20px rgba(0, 210, 255, 0.3);" />
+      </a>
+      <br>
+      <strong>Anandu Murali</strong><br>
+      <em>AI / ML Engineer</em>
+    </td>
+    <td width="72%" valign="top">
 ```ini
 [ENGINEERING_IDENTITY]
 Name         = Anandu Murali
@@ -54,6 +65,9 @@ Education    = Master of Computer Applications (MCA) — AI & Data Science Speci
 Certificates = Infosys Springboard (OpenCV 3) • EC-Council (Ethical Hacking Essentials)
 Key_Metrics  = 90%+ Accuracy on Multimodal Emotion Recognition • 35% Latency Cut in Emergency Medical Triage
 ```
+    </td>
+  </tr>
+</table>
 
 ---
 
